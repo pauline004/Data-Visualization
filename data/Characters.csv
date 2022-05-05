@@ -1,0 +1,388 @@
+characterName,houseName,characterImage,killedBy,kills
+Addam Marbrand,,,,0
+Aegon Targaryen,Targaryen,,Gregor Clegane,1
+Aeron Greyjoy,Greyjoy,https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1_.jpg,,0
+Aerys II Targaryen,Targaryen,https://images-na.ssl-images-amazon.com/images/M/MV5BMWQzOWViN2ItNDZhOS00MmZlLTkxZTYtZDg5NGUwMGRmYWZjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jaime Lannister,3
+Akho,,https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4ZDZmOGUtNGE4Ny00Y2VmLThiOGItMjk3Y2U0ZDY3OWQxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Daario Naharis,1
+Alliser Thorne,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMjExMjA3M15BMl5BanBnXkFtZTcwMjI1ODg5NA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",Jon Snow,2
+Alton Lannister,Lannister,https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTU1NTAzOF5BMl5BanBnXkFtZTcwNzA2NDk4OA@@._V1_.jpg,Jaime Lannister,1
+Alys Karstark,,,,0
+Amory Lorch,,https://images-na.ssl-images-amazon.com/images/M/MV5BOTVmY2M2YmUtY2JkYS00NjIyLWFhYTAtNTNlZmI4ODdiNmE5XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_.jpg,Jaqen H'ghar,2
+Anguy,,https://images-na.ssl-images-amazon.com/images/M/MV5BNmRhY2M4YmItNjc2Yi00ZDc0LWE5NmUtNGE5OWE0YTQ2YjY3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Archmaester Marwyn,,,,0
+Areo Hotah,,https://images-na.ssl-images-amazon.com/images/M/MV5BNWFkNTAwNzctOGQ2ZS00OTMyLWE3NDYtOGUwM2E1MzVlYjI0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Tyene Sand,1
+Armeca,,https://images-na.ssl-images-amazon.com/images/M/MV5BZmQyMGVlMDctYWFhMi00YzMyLTlkZDgtOWNmZTY3NmZkYzZlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Arthur,,,,0
+Arthur Dayne,,https://images-na.ssl-images-amazon.com/images/M/MV5BODczZDUxYmQtMzk1MC00ZTUwLTk1MjAtZDJlODViMWFhOGU5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Howland Reed,1
+Arya Stark,Stark,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5MTYwNDc0OF5BMl5BanBnXkFtZTcwOTg2NDg1Nw@@._V1_SY1000_CR0,0,665,1000_AL_.jpg",,9
+Baby Sam,,,,0
+Balon Greyjoy,Greyjoy,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNjkwODczN15BMl5BanBnXkFtZTcwODMwNTgzNw@@._V1_SY1000_CR0,0,637,1000_AL_.jpg",Euron Greyjoy,1
+Baratheon Guard,Baratheon,,,0
+Barristan Selmy,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMTE0NjUxNV5BMl5BanBnXkFtZTcwOTA1ODg5NA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",Sons of the Harpy,0
+Benjen Stark,Stark,https://images-na.ssl-images-amazon.com/images/M/MV5BMjFiY2M5MjgtZmRiMS00ZTAyLTk2Y2UtMjdjZTRkZmVlYTMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Wights,0
+Beric Dondarrion,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMTEwNTg2MF5BMl5BanBnXkFtZTgwNTAxODYxOTE@._V1_SY1000_CR0,0,665,1000_AL_.jpg",Sandor Clegane,1
+Bianca,,https://images-na.ssl-images-amazon.com/images/M/MV5BYWJhYjcxYzgtMDlhZi00OGNhLWE0NzAtMWFhMDJlYTZmYzY2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Biter,,https://images-na.ssl-images-amazon.com/images/M/MV5BNWVjOWFjNGEtYzc0MC00YjkzLTkxM2QtN2Y1MmU4NzIzOTEyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Sandor Clegane,1
+Black Lorren,,https://images-na.ssl-images-amazon.com/images/M/MV5BNjg5ZGZjZDUtZmJmNC00MjQ5LWJhZDAtOTc0MzYzNTNkMTZiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Black Walder Rivers,Frey,,Arya Stark,2
+Bobono,,https://images-na.ssl-images-amazon.com/images/M/MV5BZWRmNWVhNTctOGJlZC00ZjVlLThkY2MtODU3Y2I2Njc1YzZjL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Bowen Marsh,,https://images-na.ssl-images-amazon.com/images/M/MV5BNmRkMDYxYjQtYTBjZi00NDZlLThmNGMtYzlhNGI1ZDE5NTJmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jon Snow,1
+Brandon Stark,Stark,,Aerys II Targaryen,1
+Bran Stark,Stark,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NTg0NTI3MTBeQTJeQWpwZ15BbWU3MDEyNjg4OTQ@._V1_SX1500_CR0,0,1500,999_AL_.jpg",,0
+Brea,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzc4MjE3N15BMl5BanBnXkFtZTgwMDg0Njc5NTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg",,0
+Brienne of Tarth,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDY4NzgzOV5BMl5BanBnXkFtZTcwNDM5ODg4OQ@@._V1_.jpg,,1
+Bronn,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MzI5MjY1OV5BMl5BanBnXkFtZTcwODM1ODg4OQ@@._V1_.jpg,,3
+Brother Ray,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwNjU5MTY3NzleQTJeQWpwZ15BbWU4MDIwODkwMTkx._V1_SY1000_CR0,0,1502,1000_AL_.jpg",Lem Lemoncloak,1
+Brynden Tully,Tully,https://images-na.ssl-images-amazon.com/images/M/MV5BOTg5ZDIwOWUtMjQ1OS00YjgxLThmMDgtOWUwZjQ4MzE3ZDhlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Captain of the Archers,,,,0
+Catelyn Stark,Stark,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODc4MTkxMV5BMl5BanBnXkFtZTcwNjM3MTg4OQ@@._V1_SY1000_CR0,0,915,1000_AL_.jpg",Black Walder Rivers,2
+Catspaw Assassin,,,Summer,1
+Cersei Lannister,Lannister,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzNTAxNjExMl5BMl5BanBnXkFtZTcwMDEwNzI4OQ@@._V1._CR954,56,605,670_.jpg",,7
+Child of the Forest,,https://images-na.ssl-images-amazon.com/images/M/MV5BOTdjYmYxNjctODU1OC00NzIwLTk0ODktNDc3NzA2MzRhYzIwXkEyXkFqcGdeQXVyNTcxMzMwNTA@._V1_.jpg,,0
+Citadel Maester,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3NDA1Nzc5Nl5BMl5BanBnXkFtZTgwMjIwNTgyOTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Colen of Greenpools,,,,0
+Craster,,https://images-na.ssl-images-amazon.com/images/M/MV5BMzZiNjZiMGItNTQ2Yi00MGU3LWFjMTktNzlmNDFlYzA3MjY3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Karl Tanner,1
+Daario Naharis,,"https://images-na.ssl-images-amazon.com/images/M/MV5BY2ExMDJmNzMtMDVmZi00MDNlLWI1NzYtOTkxOTdlOWU4YzE4XkEyXkFqcGdeQXVyNTcxMzMwNTA@._V1_SY1000_CR0,0,665,1000_AL_.jpg",,4
+Daenerys Targaryen,Targaryen,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzIxMTQwMF5BMl5BanBnXkFtZTcwMzY2NDg1Nw@@._V1_SY1000_CR0,0,810,1000_AL_.jpghttps://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzIxMTU1OV5BMl5BanBnXkFtZTcwNzI2ODg5NA@@._V1._SX100_SY140_.jpg",,10
+Dagmer Cleftjaw,,https://images-na.ssl-images-amazon.com/images/M/MV5BYWRlYzI5ZTQtODU0My00MWUyLWExNTMtNGQ4OTIwYzE2YzFiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Daisy,,https://images-na.ssl-images-amazon.com/images/M/MV5BMDk2ODRhNzItOGZhNi00YTUyLThkMzctMDQ2Zjg5MzY1NTI2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Davos Seaworth,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTMwODc0NzI4Ml5BMl5BanBnXkFtZTcwNzY3NDk4OQ@@._V1_.jpg,,0
+Dickon Tarly,,https://images-na.ssl-images-amazon.com/images/M/MV5BNzk1YjNlZGQtNTU0MC00OGZmLThhYTQtZDM1ZjI2OGNlZGQxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Daenerys Targaryen,1
+Dongo the Giant,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTRjNGYxNWItYmRhNS00MDY3LWFmZTItMzYzNTEwMjg3YTA1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg,Night's Watchman,3
+Donnel Waynwood,,,,0
+Dontos Hollard,,https://images-na.ssl-images-amazon.com/images/M/MV5BNzUzYzg5NGUtOWE5Zi00Y2MwLTg2YzQtMDZlOWE1NDZjZmFkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Petyr Baelish,1
+Doran Martell,Martell,"https://images-na.ssl-images-amazon.com/images/M/MV5BZWU5NzJkNWMtYTM4MS00YmE2LWExYmItNDNiOTE3YzI5YzAxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,913,1000_AL_.jpg",Ellaria Sand,1
+Doreah,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNWJmNzYtZjFhYy00NmI5LWFkOWUtOWQ0ZjUzZDYwYjM1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Daenerys Targaryen,2
+Dothraki Bloodrider #1,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2Mzk1MzczMl5BMl5BanBnXkFtZTgwNDQyODAxODE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",Daenerys Targaryen,1
+Dothraki Bloodrider #2,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2Mzk1MzczMl5BMl5BanBnXkFtZTgwNDQyODAxODE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",Daenerys Targaryen,1
+Drennan,,,Osha,1
+Drogon,Targaryen,,,2
+Drowned Priest,,https://images-na.ssl-images-amazon.com/images/M/MV5BOGEwMjRhYzgtYjY1YS00MjhlLTllYjYtNWQzOGQxOTE3ZDczXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Eddard Stark,Stark,"https://images-na.ssl-images-amazon.com/images/M/MV5BODcwMjg0MDQ5MF5BMl5BanBnXkFtZTcwMTk2NDk4OQ@@._V1_SY1000_CR0,0,827,1000_AL_.jpg",Ilyn Payne,4
+Eddison Tollett,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1MjQ4ODAwNV5BMl5BanBnXkFtZTcwMTc5NDk4OQ@@._V1_.jpg,,0
+Edmure Tully,Tully,https://images-na.ssl-images-amazon.com/images/M/MV5BYjEzNThlMmQtMDgzYi00MTQ5LTllMzQtNDZjY2JiMTVhNmNkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Ellaria Sand,Martell,https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ0ZDE5NDUtNDVmZi00ZTI5LTkyOTgtNDhiNjMwZjY3ZjgwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,2
+Elia Martell,Martell,,Gregor Clegane,1
+Eon Hunter,,,,0
+Euron Greyjoy,Greyjoy,https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTJhMjMtMmY4Yy00NTU2LTliZWUtNjM4YzAxY2M3ZDBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,3
+Faceless Man,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4ODYxODI0MF5BMl5BanBnXkFtZTgwMDk4NDY0NTE@._V1_SY1000_CR0,0,665,1000_AL_.jpg",,0
+Farlen,,,,0
+Gared,,https://images-na.ssl-images-amazon.com/images/M/MV5BNGYxZjljZTctZjIxYy00YmUwLTk3MDgtZWIyZjhkNDgwYTZiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,White Walker,3
+Gatins,,"https://images-na.ssl-images-amazon.com/images/M/MV5BNzIwZmJkNDktZWMwMC00ZGNlLWJkNWYtN2ZmOWEzNDFiNWMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SX1777_CR0,0,1777,999_AL_.jpg",Sandor Clegane,1
+Gendry,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNzYwMTk4MV5BMl5BanBnXkFtZTcwNDg1ODg4OQ@@._V1_SY1000_CR0,0,846,1000_AL_.jpg",,0
+Gerold Hightower,,https://images-na.ssl-images-amazon.com/images/M/MV5BODc3OTIzYmEtYjk2Yy00NTgwLTk4OWMtMjlmMmJmNDE5OGU2XkEyXkFqcGdeQXVyNjU5MTM2ODI@._V1_.jpg,Eddard Stark,1
+Ghost,Stark,,,1
+Gilly,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTQxMTA3MF5BMl5BanBnXkFtZTcwODM5NDk4OQ@@._V1_SY1000_CR0,0,760,1000_AL_.jpg",,0
+Goldcloak,,,,1
+Goldcloak,,,,1
+Goldcloak #1,,,,0
+Goldcloak #2,,,,0
+Grand Maester Pycelle,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNDA4MzQ3MF5BMl5BanBnXkFtZTcwNTM3ODg4OQ@@._V1_.jpg,Little Birds,0
+Great Master #1,,,Rebel Slaves,0
+Great Master #2,,,,0
+Great Master #3,,,,0
+Great Master #4,,,,0
+Great Master #5,,,,0
+Great Master #6,,,,0
+Great Master #7,,,,0
+Greatjon Umber,,https://images-na.ssl-images-amazon.com/images/M/MV5BN2VjMTM4OTItMDUxMi00N2NiLThhMWMtNGNhMDQ4OGJhOWU0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Gregor Clegane,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3OTg2MTM2MF5BMl5BanBnXkFtZTcwNDk1NzE5OQ@@._V1_.jpg,,5
+Greizhen Mo Ullhor,,https://images-na.ssl-images-amazon.com/images/M/MV5BMmYwNjBkZDItZmQyNi00MjhiLWFhMjYtNzk3YWJmMzJhZTFkXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SY1000_SX1500_AL_.jpg,Unsullied,0
+Grenn,,https://images-na.ssl-images-amazon.com/images/M/MV5BMzkzOTI0NjM3MV5BMl5BanBnXkFtZTcwMTY3ODg4OQ@@._V1_.jpg,Mag the Mighty,2
+Grey Wind,Stark,,Frey Crossbowmen,0
+Grey Worm,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjk3ZDJlNTQtZDBiMC00ODVhLTlmYmYtYzkxMDA0N2QxNDY0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,1
+Hallyne,,https://images-na.ssl-images-amazon.com/images/M/MV5BMDg4YzNjMzMtYzk4OS00NTEwLWE1NWItYjMyODViNTQ4YmUxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Handmaid,,https://images-na.ssl-images-amazon.com/images/M/MV5BMGUwMjczOGQtZjRmOC00NmIyLWE1YmMtZmE2OGEzNzY2Mjg4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Handmaid,,https://images-na.ssl-images-amazon.com/images/M/MV5BMGUwMjczOGQtZjRmOC00NmIyLWE1YmMtZmE2OGEzNzY2Mjg4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Harald Karstark,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTE4OTIwNWQtZjNkOC00MzhhLThhYzQtMmU1OTFiZGU3YzMzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+High Priestess,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MzQxOTMwM15BMl5BanBnXkFtZTgwMzkwMzg4ODE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+High Septon,,,Kings Landing Rioters,0
+High Septon,,https://images-na.ssl-images-amazon.com/images/M/MV5BNDYyYTc3OTgtMmE1Mi00NDVmLWIyNjYtOTIwNDAyYmVmN2E5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+High Sparrow,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyOTk0MjExMF5BMl5BanBnXkFtZTgwODk5Njk5NzE@._V1_SY1000_CR0,0,1504,1000_AL_.jpg",Cersei Lannister,1
+Hizdahr zo Loraq,,https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ4YjdmZjItYmExNi00YmNlLWJjZmYtNWEwMmEzNGFjYmFjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Sons of the Harpy,0
+Hodor,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMzU4MDEyNF5BMl5BanBnXkFtZTcwNDM2ODg4OQ@@._V1_.jpg,Wights,1
+Hoster Tully,Tully,https://images-na.ssl-images-amazon.com/images/M/MV5BNTY3YzMzOWUtNzNjYi00ODYzLThjNjUtNzc4NzFlNmE2NjgyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Hot Pie,,https://images-na.ssl-images-amazon.com/images/M/MV5BOTQyNTI4NDg4M15BMl5BanBnXkFtZTcwNDk4NDk4OQ@@._V1_.jpg,,0
+Howland Reed,,https://images-na.ssl-images-amazon.com/images/M/MV5BOTdkNjRkMTAtZGMwOS00OTA4LWE5NzktNDIyOTNiOTM0ZjkxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,1
+Hugh of the Vale,,https://images-na.ssl-images-amazon.com/images/M/MV5BODRhNGQwNDgtNDEwNS00MWRlLWJmZTQtMTJlNjNmZTI1ZDk5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Gregor Clegane,1
+Illyrio Mopatis,,https://images-na.ssl-images-amazon.com/images/M/MV5BMzM1OWY0ZmUtNWM5Ny00NzgzLWFhMmUtOWY1Njc3NmNkZmM1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Ilyn Payne,,https://images-na.ssl-images-amazon.com/images/M/MV5BOGY5ZGE1OGUtODYwNS00OTVlLWE1MWItMzI5NDBmYWIwZTI4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,1
+Irri,,https://images-na.ssl-images-amazon.com/images/M/MV5BY2Y0ZmNiMjItNzVmNi00MGEyLWFhMTUtZDZkYTBmZjFiZDY1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Doreah,1
+Izembaro,,https://images-na.ssl-images-amazon.com/images/M/MV5BN2NkZmFkMmItNzhiMy00ZTJkLThjM2YtNzBhMzU0ZmJkZjI4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Jacks,,,,0
+Jafer Flowers,,,White Walker,3
+Jaime Lannister,Lannister,https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMzU1NjM1MF5BMl5BanBnXkFtZTcwMzIxODg4OQ@@._V1_.jpg,,4
+Janos Slynt,,https://images-na.ssl-images-amazon.com/images/M/MV5BYjNkNjI3ZGItZmJmMC00Y2E3LWE2M2ItYzkzMTdlMGM1ZGE2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jon Snow,1
+Jaqen H'ghar,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1MjI5MzYwNzNeQTJeQWpwZ15BbWU3MDkxNDcxOTk@._V1_.jpg,,2
+Jaqen's Disguise,,,,0
+Jaremy Rykker,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjg4YjRmMDYtZjcyMS00YjM3LTg4OWQtZTg2MDFiZTJkZDIwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Jeor Mormont,Mormont,https://images-na.ssl-images-amazon.com/images/M/MV5BODAwODYyNzk0NV5BMl5BanBnXkFtZTcwNDI2NDk4OQ@@._V1_.jpg,Rast,1
+Jhiqui,,,,0
+Joffrey Baratheon,Baratheon,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDg5MTAwMl5BMl5BanBnXkFtZTcwOTIwODg4OQ@@._V1_SY1000_CR0,0,818,1000_AL_.jpg",Petyr Baelish,2
+Jojen Reed,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0OTU4MTk4M15BMl5BanBnXkFtZTcwMTE4MTE5OQ@@._V1_.jpg,Meera Reed,1
+Jon Arryn,,https://images-na.ssl-images-amazon.com/images/M/MV5BYmJiMzVjYzEtODA2ZC00NTkwLWI1ZDEtNDUxM2Y1NzcxZjU0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg,Lysa Arryn,1
+Jon Snow,Stark,https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwMjUxMDk2OV5BMl5BanBnXkFtZTcwMzg3MTg4OQ@@._V1_.jpg,Alliser Thorne,12
+Jonos Bracken,,,,0
+Jorah Mormont,Mormont,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNTcxMDI2NV5BMl5BanBnXkFtZTcwMzgxNzI4OQ@@._V1._CR225,437,407,405_.jpg",,1
+Jory Cassel,,https://images-na.ssl-images-amazon.com/images/M/MV5BZTg3OGE5MDktNmYxOS00YmFiLWFjMDYtMTBkMjlhYWJhZjYzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jaime Lannister,1
+Joyeuse Erenford,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MTU5NDQzM15BMl5BanBnXkFtZTcwNjQxNDM2OQ@@._V1_SY1000_CR0,0,1503,1000_AL_.jpg",Catelyn Stark,1
+Karl Tanner,,https://images-na.ssl-images-amazon.com/images/M/MV5BNDEwZGVlODEtM2VhNC00ZjJmLTlmMjAtNzBlNTdmOTcwZGY2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jon Snow,2
+Karsi,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjcxZWVjZTMtZTBhOS00ZjM5LTkxOTctNzdkMmU2ZTIzYzU5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Pack of Wights,0
+Kayla,,"https://images-na.ssl-images-amazon.com/images/M/MV5BZmJhNmU5NGItMmUwNC00NDgxLThlYWMtMzc0NTQ4YmZiMDIxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SY1000_CR0,0,1718,1000_AL_.jpg",,0
+Kegs,,,Wildling,0
+Kevan Lannister,Lannister,https://images-na.ssl-images-amazon.com/images/M/MV5BMjZkMzliOWYtODIwNS00ZTU2LWIxNTAtYjFlNTA1YjdhNzc4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Cersei Lannister,1
+Khal Drogo,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMTE2MjczM15BMl5BanBnXkFtZTcwMDA5NDk4OQ@@._V1_.jpg,Daenerys Targaryen,3
+Khal Moro,,https://images-na.ssl-images-amazon.com/images/M/MV5BN2ZkODIwY2MtNzViYS00NDEwLWE2ZjItZDFiMzg1MWVjMzQwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Daenerys Targaryen,1
+Khal Rhalko,,https://images-na.ssl-images-amazon.com/images/M/MV5BYTFkMWRiMDItN2Q2Ny00N2VlLWIxMzYtZDMwODkwNDE4ZTYyXkEyXkFqcGdeQXVyMTk0NzA0Njg@._V1_.jpg,Daenerys Targaryen,1
+King Joffrey Baratheon Dwarf,,,,0
+King Renly Baratheon Dwarf,,,,0
+King Robb Stark Dwarf,,,,0
+King Stannis Baratheon Dwarf,,,,0
+King's Landing Rioter #1,,,Sandor Clegane,1
+King's Landing Rioter #2,,,Sandor Clegane,1
+King's Landing Rioter #3,,,Sandor Clegane,1
+Kinvara,,https://images-na.ssl-images-amazon.com/images/M/MV5BZGNkYWZlZmYtM2Y4Yi00YmJjLTk1OTktNDc0YmMxODY5ZTI2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Kitty Frey,Frey,,,0
+Knight of House Frey,,,,0
+Knight of House Lynderly,,,,0
+Kovarro,,https://images-na.ssl-images-amazon.com/images/M/MV5BZjRmMzgyY2QtMzNmYy00NmRhLWIxNzItOGEwOWU2MzA5YjUwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Kraznys mo Nakloz,,https://images-na.ssl-images-amazon.com/images/M/MV5BMWIzZGY0NWUtMmM1OC00NDYzLTkxMjYtM2I1MGM5MTkzODMwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Drogon,1
+Kurleket,,https://images-na.ssl-images-amazon.com/images/M/MV5BMmY3NWI0YTItNWFkZi00MTVlLWIyNDQtN2MwYjY0ZjhhOTdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Mountain Clansman,0
+Lady,Stark,,Eddard Stark,1
+Lady Crane,,https://images-na.ssl-images-amazon.com/images/M/MV5BZTUyOTFlNjgtYzJjYS00MDY5LWJhMDQtYTJiZThjOTlmNTg3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,The Waif,1
+Lancel Lannister,Lannister,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MTQ5MzEzNV5BMl5BanBnXkFtZTgwNTQ4MDA2NTE@._V1_SY1000_CR0,0,1503,1000_AL_.jpg",Cersei Lannister,1
+Lannister Captain,,,,0
+Lannister Captain,,,,0
+Lannister Guardsman,,,,1
+Lannister Messenger,,,,0
+Lannister Scout,,,,0
+Lead Dornish Guard,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzM5ODM3OV5BMl5BanBnXkFtZTgwMjU1ODg2NTE@._V1_SX865_CR0,0,865,999_AL_.jpg",Bronn,1
+Leaf,,https://images-na.ssl-images-amazon.com/images/M/MV5BYTJjNGJhYmYtNGViMy00NTg3LWI0M2YtNmM3OGI3NzA3MGVjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Wights,0
+Lem Lemoncloak,,https://images-na.ssl-images-amazon.com/images/M/MV5BZWYxOGUwODAtZmY0MS00OTFkLWI0YTUtZTkxNjI1ZjE1YmJhXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Sandor Clegane,2
+Leo Lefford,,,,0
+Lhara,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTBjZDY4M2YtOWU1ZC00NTA2LWI4ODItYWZjYjlhMWY5NDhmL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Little Bird,,,,0
+Little Bird,,,,0
+Little Bird #3,,,,0
+Little Bird #4,,,,0
+Little Bird #5,,,,0
+Little Bird #6,,,,0
+Little Bird #7,,,,0
+Loboda,,https://images-na.ssl-images-amazon.com/images/M/MV5BMDU5NzIxYzQtNDExMi00YTljLThiNjItMWIxNDEwZTJhNjZkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,White Walker,3
+Locke,,"https://images-na.ssl-images-amazon.com/images/M/MV5BOTg1MDM2ODE0MF5BMl5BanBnXkFtZTcwNzM4MzA0OQ@@._V1_SY1000_CR0,0,665,1000_AL_.jpg",Hodor,1
+Lollys Stokeworth,,https://images-na.ssl-images-amazon.com/images/M/MV5BODQ5MTY2MjAtZmM4NC00OGZmLWIyYjEtYTNlOGQxMzg2NzgxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Lommy Greenhands,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MWUxMzYtMTAxNy00M2MzLTk5N2QtOTY1ZTE1ZGE2OTU4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Polliver,1
+Loras Tyrell,Tyrell,https://images-na.ssl-images-amazon.com/images/M/MV5BNzcwNDAxZGMtODU1Mi00YzA2LWJhMzYtN2FjZjg2YWZlMTQ4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Cersei Lannister,1
+Lord Galbart Glover,,,,0
+Lord Portan,,,,0
+Lord Varys,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNDk2MjczM15BMl5BanBnXkFtZTcwODk0ODg4OQ@@._V1_.jpg,,0
+Lordsport Dockhand,,,,0
+Lothar Frey,Frey,https://images-na.ssl-images-amazon.com/images/M/MV5BMDc0NDA3YmYtZTNjYi00ZDExLWE2NTUtNzk5NjI3MGI3NzM0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Arya Stark,2
+Loyal Night's Watchman #1,,,,0
+Loyal Night's Watchman #2,,,,0
+Lyanna Mormont,Mormont,https://images-na.ssl-images-amazon.com/images/M/MV5BOTY3MWNmYjAtZjZhYi00M2IzLWJjNDMtMjUzZmU3NTYyYWUxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Lyanna Stark,Stark,https://images-na.ssl-images-amazon.com/images/M/MV5BMTE5NTczY2QtNmQxYS00NTAwLWE2ZTAtYzc1MTkyZGU5MzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jon Snow,1
+Lysa Arryn,Arryn,https://images-na.ssl-images-amazon.com/images/M/MV5BMmNlYTYzOTYtOTg1ZC00YzdlLTliNTgtZDhjMTY1MGViZTA5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Petyr Baelish,2
+Mace Tyrell,Tyrell,https://images-na.ssl-images-amazon.com/images/M/MV5BNTcyZWFjZjItYmI4NS00ZDE2LTg4Y2YtYWJkYWI5MWJlNWFjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Cersei Lannister,1
+Maester Aemon,Targaryen,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDY4MzI5NV5BMl5BanBnXkFtZTcwMTk0ODg5NA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",Natural Causes,0
+Maester Cressen,,https://images-na.ssl-images-amazon.com/images/M/MV5BYjFmNDZjM2YtMGRkMy00NWM2LThjNWUtYzFkZGRjMjk0YWZlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Maester Cressen,1
+Maester Luwin,,https://images-na.ssl-images-amazon.com/images/M/MV5BYjk0MmZiNmUtMTljMy00MmY1LTg1ODgtY2FkMjczMjI4ZWQzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Osha,1
+Maester Wolkan,,,,0
+Mag the Mighty,,https://images-na.ssl-images-amazon.com/images/M/MV5BMDI5NjYzMDMtMmNkOC00MDA4LWI1OTctN2EzYzQ2ZmNiZWYwXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_SX1000_AL_.jpg,Grenn,2
+Maggy,,https://images-na.ssl-images-amazon.com/images/M/MV5BZmQ4ZTIyNjYtZWZlZS00MTVjLTgxZTEtMWYyM2RhMzcwYzc4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Mago,,"https://images-na.ssl-images-amazon.com/images/M/MV5BNjdmM2ZlMTQtOGRlMy00NzAyLWE0MWYtM2JiMjNlNjA3MDU2XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Khal Drogo,1
+Male Prostitute,,,,0
+Malko,,https://images-na.ssl-images-amazon.com/images/M/MV5BZmUwYTA2YjUtZWU5Zi00OTY1LTlhYjMtOGRhMDZlNTEyOTEzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Mance Rayder,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NzQyNjAwNF5BMl5BanBnXkFtZTcwODcyMTEwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",Melisandre,1
+Mandon Moore,,,Podrick Payne,1
+Manservant,,,,0
+Marei,,https://images-na.ssl-images-amazon.com/images/M/MV5BYTZkM2M5OWItNjQ1NC00MDcyLWIwYjItODBhZmI5NWYxMDVlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Margaery Tyrell,Tyrell,https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzODQ1MDg3NV5BMl5BanBnXkFtZTcwODA4NDk4OQ@@._V1_.jpg,Cersei Lannister,1
+Margaery's Handmaiden,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NjcwMzAzN15BMl5BanBnXkFtZTcwNzgxNTcyOQ@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",,0
+Marillion,,https://images-na.ssl-images-amazon.com/images/M/MV5BNDVlZmU0NmYtOGM1MS00N2E0LTgxYTYtNTBhZDk1ZTM4M2ViXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Martyn Lannister,Lannister,,Rickard Karstark,1
+Masha Heddle,,,,0
+Matthos Seaworth,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTBlYmZlMGEtMzg5Yy00OGFjLWE3Y2MtNjc2NTViN2ExNzM3XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_.jpg,Bronn,1
+Meera Reed,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyOTQwNjI5OF5BMl5BanBnXkFtZTcwOTcyMTEwOQ@@._V1_SY1000_CR0,0,665,1000_AL_.jpg",,1
+Meereen Slave Master,,,,0
+Melessa Tarly,,https://images-na.ssl-images-amazon.com/images/M/MV5BN2U0YmU1Y2EtNTNkOS00MzIxLWI3OTgtNjUwNGY4YTNiNWJlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Melisandre,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MjI5NjQ2OV5BMl5BanBnXkFtZTcwODI4NDk4OQ@@._V1_.jpg,,3
+Merchant Captain,,,Obara Sand,1
+Mero,,https://images-na.ssl-images-amazon.com/images/M/MV5BZmUzODdkZTQtOTAxZC00MjI5LWFmZjctZDYyYTVlNzMxMjdiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Daario Naharis,1
+Meryn Trant,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTVjYTRhZWMtM2QwOC00MmYyLTk3ZjAtYmI1ZTlhNmQ3NzE0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Arya Stark,2
+Mhaegen,,,,0
+Mikken,,,,0
+Mirelle,,https://images-na.ssl-images-amazon.com/images/M/MV5BMDFlYzUxNTktYjRiOC00NmM1LTg1OTYtOWMzZTlmOGI0MWE4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Mirri Maz Duur,,https://images-na.ssl-images-amazon.com/images/M/MV5BNDNiMzM4ZTAtZDhkMy00OTI3LTkxNzgtMTVjNmU5YTEyYTVjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Daenerys Targaryen,2
+Missandei,,"https://images-na.ssl-images-amazon.com/images/M/MV5BNTE5OTI0OTA0OV5BMl5BanBnXkFtZTcwODczOTAzOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",,0
+Mord,,https://images-na.ssl-images-amazon.com/images/M/MV5BOGIzMmRlOWEtMjUwYy00OGM1LTkwNDEtZTlmODNkMWY4MWU3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Mossador,,https://images-na.ssl-images-amazon.com/images/M/MV5BMGYxZjVkOGEtMWI0NS00ODc3LTlkMzUtMGFkNzJlMDc1MGY4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Daario Naharis,1
+Musician #1,,"https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Musician #1,,"https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Musician #2,,"https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Musician #2,,"https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Musician #3,,"https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Musician #3,,"https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Musician #4,,"https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Musician #5,,"https://images-na.ssl-images-amazon.com/images/M/MV5BODA5NjA3ODY1NF5BMl5BanBnXkFtZTgwNzA5ODY2MTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Mycah,,https://images-na.ssl-images-amazon.com/images/M/MV5BMmE5NjdjMzktZTYwNy00MzdhLWI2MjktNTUwNjA4OTA4MTAxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Sandor Clegane,1
+Myranda,,https://images-na.ssl-images-amazon.com/images/M/MV5BYmJjYTdiNjgtM2JmMC00ZmUxLWE1MzMtZWRiMzcwODZmNDE2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Theon Greyjoy,1
+Myrcella Baratheon,Baratheon,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTA4OTA1MTIxMzdeQTJeQWpwZ15BbWU3MDY2NjQ4NTc@._V1_SY1000_CR0,0,665,1000_AL_.jpg",Ellaria Sand,1
+Night's Watch Deserter,,,,0
+Night's Watch Messenger,,,,0
+Night's Watch Officer,,,,0
+Night's Watch Officer,,,,0
+Night's Watchman,,,,1
+Night's Watchman,,,,1
+Night's Watchman,,,,1
+Night's Watchman #1,,,,0
+Night's Watchman #2,,,,0
+Night's Watchman #2,,,,0
+Northman Rioter,,,,0
+Nymeria,Stark,,,0
+Nymeria Sand,Martell,https://images-na.ssl-images-amazon.com/images/M/MV5BNDZmN2FkMTEtMmMyYy00ZTcwLWE3MGQtNGU1NzY4MjAxNjQ0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Euron Greyjoy,1
+Obara Sand,Martell,https://images-na.ssl-images-amazon.com/images/M/MV5BOWU3OTRmYmItZTZiYi00Mjk1LTk2NTItMzBjZmQ3NDZhMDMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Euron Greyjoy,3
+Oberyn Martell,Martell,https://images-na.ssl-images-amazon.com/images/M/MV5BZTJmYjViYjctYTU0My00NTJiLWE2YzUtOWZkNTg4MTZkZmEyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Gregor Clegane,1
+Old Nan,,https://images-na.ssl-images-amazon.com/images/M/MV5BZTEzZmMxMzQtYzA4OC00YjI3LTg3Y2QtNjNhMjE2MDMxZDZlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Old Woman Prisoner,,,,0
+Olenna Tyrell,Tyrell,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMjgwOTQ3Nl5BMl5BanBnXkFtZTcwMjE2NzE5OQ@@._V1_SY1000_CR0,0,662,1000_AL_.jpg",Jaime Lannister,1
+Olly,,https://images-na.ssl-images-amazon.com/images/M/MV5BOWFiYTRlMzMtMmQzZC00Y2UxLTgzMzAtZGEzOTlkMGRiODBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jon Snow,2
+Olyvar,,https://images-na.ssl-images-amazon.com/images/M/MV5BOTZiNDAwYzQtMGJkZi00OGM4LTg2OTgtNzFjZTM1ZGExMzNiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Orell,,https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ1NDAzODQtNzAzMy00MDRhLTkwMWItZTNmMWJmN2I5MTlmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jon Snow,1
+Ornela,,https://images-na.ssl-images-amazon.com/images/M/MV5BODdmZDIwMTEtYWI1OS00YTVmLWIzZGUtOWI4YTk3MWU3NTNhXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_.jpg,,0
+Osha,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NjY0ODY2OV5BMl5BanBnXkFtZTcwMzU5ODg4OQ@@._V1_.jpg,Ramsay Snow,3
+Othell Yarwyck,,https://images-na.ssl-images-amazon.com/images/M/MV5BNDgzYzhkZWYtYTA3OS00ZTk5LTgwYTUtNThiMDFmNjBmZmIxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jon Snow,1
+Othor,,,White Walker,3
+Pentoshi Servant,,,,0
+Petyr Baelish,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MjE3OTc3M15BMl5BanBnXkFtZTcwODgzODg4OQ@@._V1_.jpg,Arya Stark,4
+Podrick Payne,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTU5NjczOTQyNl5BMl5BanBnXkFtZTcwMzMwNTk4OQ@@._V1_.jpg,,1
+Polliver,,https://images-na.ssl-images-amazon.com/images/M/MV5BY2EwODU4ZGMtZGVkZi00ZjE4LTlhZTItNzNjNGZiM2UxZTc1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Arya Stark,2
+Prendahl na Ghezn,,"https://images-na.ssl-images-amazon.com/images/M/MV5BYzkyZDYyNGYtNDEyNC00NTQ2LWI4N2MtNmM0YzcwOTc1ODRlXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX1777_CR0,0,1777,999_AL_.jpg",Daario Naharis,1
+Pyat Pree,,https://images-na.ssl-images-amazon.com/images/M/MV5BYmMzZmVkMTItNmY3Yy00MDU2LThmNTctOWJmYTNhMThhNTRlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Drogon,3
+Pypar,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTFiNTIxY2MtY2ExOC00NjM1LTg0MGEtYzUzYzA0YzIyY2VjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Ygritte,1
+Qhono,,https://images-na.ssl-images-amazon.com/images/M/MV5BMGMwYjgwMGQtOGRlNC00NDg0LTliM2ItN2I1NzIxZmQ5YTU1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Qhorin Halfhand,,https://images-na.ssl-images-amazon.com/images/M/MV5BODM1MzJmZmUtZWI2MS00YjliLWJhNTItZmMzNmQ1YzA0ZjlmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jon Snow,1
+Qotho,,https://images-na.ssl-images-amazon.com/images/M/MV5BOWFjY2Y4NTgtZjQ5OS00YjM0LWI3OTItMWYyM2QzYjQyODk1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jorah Mormont,1
+Quaithe,,https://images-na.ssl-images-amazon.com/images/M/MV5BMWU1YzE1MmUtMDk3ZS00ZTQxLTg5ZjEtYzgxZDk5MzFkOWUyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Qyburn,,https://images-na.ssl-images-amazon.com/images/M/MV5BZGEzNDY2YjktMDM1ZS00MTI1LWEyYmMtNTdiMzczNmY4ZWEzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Rakharo,,https://images-na.ssl-images-amazon.com/images/M/MV5BNzU2OWU5YzQtMTM1YS00ZDBjLWJlOTUtODg5ZTJlNjU5MTIyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Khal Jhaqo's Khalasar,0
+Ramsay Snow,Bolton,"https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5Nzk3NTU5N15BMl5BanBnXkFtZTgwNzczMjk5NTE@._V1_SY1000_CR0,0,665,1000_AL_.jpg",Ramsay Snow's Hounds,4
+Randyll Tarly,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjIwMTY0NTc4N15BMl5BanBnXkFtZTgwNTMyNzYwOTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",Daenerys Targaryen,1
+Rast,,https://images-na.ssl-images-amazon.com/images/M/MV5BYzI5NjQ3ZTctODgyYi00ZTZhLTk2M2EtM2E3MzYxNDBkMWU5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Ghost,2
+Rattleshirt,,https://images-na.ssl-images-amazon.com/images/M/MV5BYzk1ZDA3YjktMWZhMi00MTA4LTk0YjItY2ZmMDRlZDY3MmM2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Tormund Giantsbane,1
+Razdal mo Eraz,,https://images-na.ssl-images-amazon.com/images/M/MV5BODdjNzdkYWQtZmE1OS00YzcxLTljMTctNWZmMDI3OTAzZmZiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Grey Worm,1
+Red Keep Stableboy,,https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0NGQzMmQtZTdlMi00Y2Q5LWE1N2ItNGNhODdmZDAxZTg3XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_.jpg,Arya Stark,1
+Red Priestess,,,,0
+Red Priestess,,"https://images-na.ssl-images-amazon.com/images/M/MV5BNTM5MjlkYjItM2YzOC00NGQwLTllZDktYmY3YmMxYjNjMzVjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Renly Baratheon,Baratheon,"https://images-na.ssl-images-amazon.com/images/M/MV5BNjA4OTE5MzcyOF5BMl5BanBnXkFtZTcwNDA1ODg5NA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",Melisandre,1
+Rhaegal,Targaryen,,,0
+Rhaegar Targaryen,Targaryen,,Robert Baratheon,1
+Rhaego,,,Mirri Maz Duur,1
+Rhaella Targaryen,Targaryen,,,0
+Rhaenys Targaryen,Targaryen,,Gregor Clegane,1
+Rickard Karstark,,https://images-na.ssl-images-amazon.com/images/M/MV5BM2IwZThkNjQtYzU2NS00ZTRiLWFjNDUtNTdmMGQ2ZmE5M2NmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Robb Stark,3
+Rickard Stark,Stark,,Aerys II Targaryen,1
+Rickon Stark,Stark,https://images-na.ssl-images-amazon.com/images/M/MV5BMWZiOGNjMDAtOTRlNi00MDJmLWEyMTMtOGEwZTM5ODJlNDAyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Ramsay Snow,1
+Robb Stark,Stark,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2NDE1NzczNF5BMl5BanBnXkFtZTcwNjcwODg4OQ@@._V1_SY1000_CR0,0,845,1000_AL_.jpg",Roose Bolton,3
+Robert Baratheon,Baratheon,https://images-na.ssl-images-amazon.com/images/M/MV5BMzQwMDcwNzY5MF5BMl5BanBnXkFtZTcwMzIyMTE5OQ@@._V1_.jpg,Boar,1
+Robett Glover,,https://images-na.ssl-images-amazon.com/images/M/MV5BMDYwNzhkZjctMzdlOS00MTAxLWE3ODktOTc2ODczMmJmNjkwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Robin Arryn,,https://images-na.ssl-images-amazon.com/images/M/MV5BNjBlNzE3YjEtMTcwYS00OTQxLTk1NjEtNGMwNzJhNWI2OGJjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Rodrik Cassel,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4NDk5MjAwMF5BMl5BanBnXkFtZTcwNTk1NDk4OQ@@._V1_.jpg,Theon Greyjoy,1
+Roose Bolton,Bolton,https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMjE3MTExN15BMl5BanBnXkFtZTcwMTI3NDk4OQ@@._V1_.jpg,Ramsay Snow,2
+Rorge,,https://images-na.ssl-images-amazon.com/images/M/MV5BZjE4Mjc3MTktMDYyOC00ZDVlLWJlNjMtYzFiMDFlYzg3MjJjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Arya Stark,1
+Ros,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NzA4OTQ5Ml5BMl5BanBnXkFtZTcwMDY5ODg4OQ@@._V1_SY1000_CR0,0,811,1000_AL_.jpg",Joffrey Baratheon,1
+Roslin Frey,Frey,https://images-na.ssl-images-amazon.com/images/M/MV5BNzhhZGIxYjctMjBkNC00YTJhLTlmMDAtOWUyYjlhNWE3Yzg3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Royal Steward,,,,0
+Ryger Rivers,,,,0
+Salladhor Saan,,https://images-na.ssl-images-amazon.com/images/M/MV5BMzIyNzg3MDktM2M3OS00YzUzLTk2ZjktMGMxY2Y5Y2IyMGVhXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Samwell Tarly,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyODYyOTczMF5BMl5BanBnXkFtZTcwNjY0ODg4OQ@@._V1_.jpg,,2
+Sandor Clegane,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMjEwNDQ1MF5BMl5BanBnXkFtZTcwMzAxODg4OQ@@._V1_.jpg,,8
+Sansa Stark,Stark,"https://images-na.ssl-images-amazon.com/images/M/MV5BNjAwMjE2NDExNF5BMl5BanBnXkFtZTcwODAwODg4OQ@@._V1_SY1000_CR0,0,806,1000_AL_.jpg",,0
+Selyse Baratheon,Baratheon,https://images-na.ssl-images-amazon.com/images/M/MV5BZGZjNDA5YWUtZjE5OC00NGE2LWI3Y2UtOTQ1Yjg1MDc3MTk4L2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Selyse Baratheon,1
+Septa Moelle,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3ODQ3NzIzMV5BMl5BanBnXkFtZTgwODczMjk5NTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Septa Mordane,,https://images-na.ssl-images-amazon.com/images/M/MV5BMzc5ZTY2MTEtYzZiNy00MGExLWI0MjctOTcxMjdlZmU3OWM5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Lannister Guardsman,1
+Septa Scolera,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3ODQ3NzIzMV5BMl5BanBnXkFtZTgwODczMjk5NTE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",,0
+Septa Unella,,https://images-na.ssl-images-amazon.com/images/M/MV5BYzUwNTlhNTktNDViMS00ZmJiLWJlMDMtNTUzZWU1ZTVjZTY4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Septon,,,,0
+Septon,,,,0
+Ser Endrew Tarth,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjJmYzRlZTUtODkwNS00OTE4LTllYWUtOTdiMGQ1MTE2MTU4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Shae,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwMTA0NTY5NF5BMl5BanBnXkFtZTcwNjk2ODg4OQ@@._V1_.jpg,Tyrion Lannister,1
+Shagga,,https://images-na.ssl-images-amazon.com/images/M/MV5BY2Y1YTI2YTMtY2E3Ny00OTliLTg2MWYtMTFlYWU3ZjAyYzFiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Shaggydog,Stark,,Smalljon Umber,1
+Shireen Baratheon,Baratheon,https://images-na.ssl-images-amazon.com/images/M/MV5BZjUzNmYzZDktZGY4ZS00ZDA1LWE1MGItMDAwM2E1ZGVlODg1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Melisandre,1
+Silk King,,https://images-na.ssl-images-amazon.com/images/M/MV5BYTA3YTFlMDAtNzIxNy00NGQzLWJlMjYtZGY3MjdmNThjMGIwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Pyat Pree,1
+Smalljon Umber,,https://images-na.ssl-images-amazon.com/images/M/MV5BNzViODI3ZTctMjZmNC00MzBhLWIxNTgtMDAzMTQ5OWM3YjE2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Tormund Giantsbane,2
+Spice King,,https://images-na.ssl-images-amazon.com/images/M/MV5BYTA4NWE5ZDgtNjQ0Ni00YmUxLWJhZTgtOTRmY2U0YzI3YmE2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Pyat Pree,1
+Stannis Baratheon,Baratheon,https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNzY0NzI0NF5BMl5BanBnXkFtZTcwNjA2NDk4OQ@@._V1_.jpg,Brienne of Tarth,1
+Stark Bannerman,,,,0
+Stark Guard,,,,0
+Stark Guard,,,,0
+Stark Guard,,,,0
+Stark Guard,,,,0
+Steelshanks Walton,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxOWYwYTctNjFlMy00MmUyLWI4MWYtZjhkMzNhYjI5YzQ1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Stevron Frey,Frey,,,0
+Stiv,,https://images-na.ssl-images-amazon.com/images/M/MV5BYjFhYzE5NGYtMWM5Zi00YjAyLWI4YTktNDhhYTE1NGFhZjgwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Theon Greyjoy,1
+Styr,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyNDM4Mjc1M15BMl5BanBnXkFtZTgwODQyMTg1MTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg",Jon Snow,1
+Summer,Stark,,Wights,1
+Syrio Forel,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2OTA3NDY5Nl5BMl5BanBnXkFtZTcwMDg0ODg5NA@@._V1_SY1000_CR0,0,665,1000_AL_.jpg",Meryn Trant,1
+Talisa Maegyr,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MjY3ODA5OF5BMl5BanBnXkFtZTcwMTA3NDk4OQ@@._V1_.jpg,Lothar Frey,1
+Talla Tarly,Tarly,https://images-na.ssl-images-amazon.com/images/M/MV5BZTYwYTA2MWEtM2FjNS00MDNhLWIyMzMtODI0Mjg2Y2ZlODBiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Ternesio Terys,,,,0
+The Bear,,https://images-na.ssl-images-amazon.com/images/M/MV5BMzE0ODQyNzYtZjc4NC00ZmM5LWI5NTgtOTk2OWQ5NjY3ZmVkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg,,0
+The Night King,,https://images-na.ssl-images-amazon.com/images/M/MV5BY2ZjNmYyMjAtNGUwYi00N2JmLWEyMTYtMDM5YmM2MWFhMWFiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg,,2
+The Tickler,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTRiZjdkNTctMzM3ZC00NDJjLWI1MjctNTdjZjFlYjNiOTMxXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_.jpg,Jaqen H'ghar,1
+The Waif,,https://images-na.ssl-images-amazon.com/images/M/MV5BMzlkNTU5NTYtNmY5OS00NTY2LTk2YWItODU0OTc0MTA5NDQ1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Arya Stark,2
+Thenn Warg,,,Samwell Tarly,1
+Theon Greyjoy,Greyjoy,https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3ODUyOTY3N15BMl5BanBnXkFtZTcwNjI4MTg4OQ@@._V1_.jpg,,3
+Thin Man,,,,0
+Thoros of Myr,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNzc0MDUzNF5BMl5BanBnXkFtZTcwMDc1NzE5OQ@@._V1_.jpg,,0
+Three-Eyed Raven,,https://images-na.ssl-images-amazon.com/images/M/MV5BOGI4NGRiNTUtM2ZlYy00ZjhlLWJlYWItMjgzNWIzYWQwZWY0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,The Night King,1
+Timett,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MjU1NzA1NF5BMl5BanBnXkFtZTcwOTA2Nzk1NQ@@._V1_.jpg,,0
+Tobho Mott,,,,0
+Todder,,,,0
+Tomard,,,,0
+Tommen Baratheon,Baratheon,https://images-na.ssl-images-amazon.com/images/M/MV5BOTY1YWUxM2QtZjhmZC00ZmQ2LThkM2YtNTk2MmQ5OTk3NGMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Tommen Baratheon,1
+Tormund Giantsbane,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1OTU3NjUzNF5BMl5BanBnXkFtZTcwNDE0NzE5OQ@@._V1_SY1000_CR0,0,717,1000_AL_.jpg",,2
+Trystane Martell,Martell,https://images-na.ssl-images-amazon.com/images/M/MV5BYTBkMjZhMjItN2QwYS00MTg2LTg2YzMtNWJiYjBiYmVkMDk3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Obara Sand,1
+Tycho Nestoris,,https://images-na.ssl-images-amazon.com/images/M/MV5BOTFjYWJjZTEtM2Y1Zi00YzE0LTkzOTItZGZkNzM2YjBiNjg5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Tyene Sand,Martell,https://images-na.ssl-images-amazon.com/images/M/MV5BNDY5NzBiMTQtYzhmMS00Y2FmLTkzYzYtYzM2ODBjNGZlNGNiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Cersei Lannister,2
+Tyrion Lannister,Lannister,"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MDAwOTI0OV5BMl5BanBnXkFtZTcwNjA3NDg1Nw@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",,2
+Tywin Lannister,Lannister,https://images-na.ssl-images-amazon.com/images/M/MV5BOTA4ODMxMzE1OV5BMl5BanBnXkFtZTcwMTM0ODg4OQ@@._V1_.jpg,Tyrion Lannister,1
+Vala,,https://images-na.ssl-images-amazon.com/images/M/MV5BYzdiYzllYjMtMGJmNC00NWIwLWIwMzEtOTM1Mjk4ZTkxZDM1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Vardis Egen,,https://images-na.ssl-images-amazon.com/images/M/MV5BMzg1Y2NiYTYtNDY0Yi00OGMwLWJjZjktZDVlNDE1Y2M3MTMzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Bronn,1
+Varly,,,Goldcloak,2
+Viserion,Targaryen,,The Night King,1
+Viserys Targaryen,Targaryen,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzIxMTU1OV5BMl5BanBnXkFtZTcwNzI2ODg5NA@@._V1_SY1000_CR0,0,1503,1000_AL_.jpg",Khal Drogo,1
+Walda Bolton,Bolton,https://images-na.ssl-images-amazon.com/images/M/MV5BOTZiNWE2YTYtZDA2Ny00ZmUwLTk4ZWUtZjFkM2JkYjFiNjE3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Ramsay Snow's Hounds,0
+Walder Frey,Frey,https://images-na.ssl-images-amazon.com/images/M/MV5BYzU0YzZjMTktZDA2Ni00YTRhLWFkZTgtOTQ4Yjg2MmQ2OGUzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Arya Stark,1
+Wallen,,,Robb Stark,1
+Warlock,,https://images-na.ssl-images-amazon.com/images/M/MV5BMzE0NjExMGMtYjJlOC00MWI4LTg5MTgtYTIzZTgxZjc2NDAyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Waymar Royce,,https://images-na.ssl-images-amazon.com/images/M/MV5BYzE1Y2EwN2QtMzMzZS00MDZkLTg4ZjItN2NkNGNkYjAzZGVlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,White Walker,3
+Wedding Band,,,,0
+White Walker,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjYzNDMyZWUtMDVlMy00OGQxLWFkZTctOWMxZDk1MDA5MmQzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,5
+White Walker,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjYzNDMyZWUtMDVlMy00OGQxLWFkZTctOWMxZDk1MDA5MmQzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Samwell Tarly,6
+White Walker,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjYzNDMyZWUtMDVlMy00OGQxLWFkZTctOWMxZDk1MDA5MmQzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Jon Snow,6
+White Walker #2,,https://images-na.ssl-images-amazon.com/images/M/MV5BMjYzNDMyZWUtMDVlMy00OGQxLWFkZTctOWMxZDk1MDA5MmQzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Wight Wildling Girl,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTg0OTdiOTYtNjBlYS00ZjI1LWEzMTAtODExOWRhNDZhMWNhXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Wildling Rioter,,,,0
+Will,,https://images-na.ssl-images-amazon.com/images/M/MV5BNjZlMDJhMmUtNzFlYS00ZTI1LWI5MjUtYmZkNTRlNmZmYzJlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Eddard Stark,1
+Willem Lannister,Lannister,,Rickard Karstark,1
+Willis Wode,,https://images-na.ssl-images-amazon.com/images/M/MV5BMmY3NWI0YTItNWFkZi00MTVlLWIyNDQtN2MwYjY0ZjhhOTdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Mountain Clansman,0
+Wine Merchant,,,,0
+Winterfell Shepherd,,,,0
+Wun Wun,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTFjMTczNTQtNzE5MC00ZTI1LWI0ZGMtMTA4NGU2ZGQ5ZjRkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg,Ramsay Snow,1
+Wyllis,,,,0
+Xaro Xhoan Daxos,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NTA5NDA3NF5BMl5BanBnXkFtZTcwNzY2NDg1Nw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",Daenerys Targaryen,1
+Yara Greyjoy,Greyjoy,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NzU5ODk0MV5BMl5BanBnXkFtZTcwMzEyNDY2OQ@@._V1_SY1000_CR0,0,1503,1000_AL_.jpg",,0
+Yezzan zo Qaggaz,,https://images-na.ssl-images-amazon.com/images/M/MV5BZDgyOTFhMzktNWE5MS00YTY3LTk0YTYtMjkyMjFkODIxOTJiXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Ygritte,,"https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NDA1Njk3Nl5BMl5BanBnXkFtZTcwOTQ2NDk4OQ@@._V1_SY1000_CR0,0,724,1000_AL_.jpg",Olly,2
+Yohn Royce,,https://images-na.ssl-images-amazon.com/images/M/MV5BZjgwNDc4NGQtMmQyMS00YjMyLWFhZWUtZmM0MjRkYmNmNGExXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
+Yoren,,https://images-na.ssl-images-amazon.com/images/M/MV5BMTZjZWMwZWItYTdlNi00N2RmLWFlYjQtZTZlYTIxYTRkMWJlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,Amory Lorch,1
+Young Benjen Stark,Stark,,,0
+Young Cersei Lannister,Lannister,,,0
+Young Lyanna Stark,Stark,,,0
+Young Nan,,,,0
+Young Ned,Stark,,,0
+Young Ned Stark,Stark,,,0
+Young Rodrik Cassel,,,,0
+Zanrush,,https://images-na.ssl-images-amazon.com/images/M/MV5BNTJjYzk1MGMtNjE3Mi00NjE2LTkzMWUtNGRjODVlY2JmMmI5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg,,0
